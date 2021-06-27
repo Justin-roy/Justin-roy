@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Roy</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justin-roy&label=Profile%20views&color=0e75b6&style=flat" alt="justin-roy" /> </p>
 <img align="centre" alt="Coding" width="1000" src="https://github.com/Justin-roy/Image-2/blob/main/2021-06-02-17-55-40-861.jpg">
