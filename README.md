@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justin-roy&label=Profile%20views&color=0e75b6&style=flat" alt="justin-roy" /> </p>
-<img align="centre" alt="Coding" width="1000" src="https://github.com/Justin-roy/Image-2/blob/main/2021-06-02-17-55-40-861.jpg">
+<img align="centre" alt="Coding" width="1000" src="https://github.com/Justin-roy/Image-2/blob/8dcf05f1b688bc5b9f4403a34680d7a587cb04f2/2021-12-06-13-31-38-778.jpg">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justin-roy" alt="justin-roy" /></a> </p>
 
 - 🌱 I’m currently learning **Android Studio**
