@@ -5,7 +5,7 @@
 <img align="centre" alt="Coding" width="1000" src="https://github.com/Justin-roy/Image-2/blob/8dcf05f1b688bc5b9f4403a34680d7a587cb04f2/2021-12-06-13-31-38-778.jpg">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justin-roy" alt="justin-roy" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 📫 How to reach me **roysunny951@gmail.com**
 
