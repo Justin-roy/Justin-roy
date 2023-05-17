@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **roysunny951@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **Being a Flutter developer and a footballer, I've learned that errors are like missed shots—sometimes they're just part of the game, and you have                   to laugh them off**
 
 
 
