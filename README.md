@@ -15,6 +15,6 @@
 
 <h3>Building scalable SaaS platforms, APIs, integrations &amp; distributed systems.</h3>
 
-<a href="[ADD LINKEDIN URL]">LinkedIn</a> &nbsp;·&nbsp; <a href="[ADD LEETCODE URL]">LeetCode</a> &nbsp;·&nbsp; <a href="mailto:roysunny951@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/sunny-kumar-4817551ba/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://leetcode.com/u/roysunny951/">LeetCode</a> &nbsp;·&nbsp; <a href="mailto:roysunny951@gmail.com">Email</a>
 
 </div>
