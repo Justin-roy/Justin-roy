@@ -74,8 +74,26 @@
       "https://leetcode.com/u/roysunny951/"
     ],
     [
+      "Portfolio",
+      "https://presonal-porfolio.vercel.app/"
+    ],
+    [
       "Email",
       "mailto:roysunny951@gmail.com"
     ]
+  ],
+  "icons": [
+    "nestjs",
+    "nodejs",
+    "ts",
+    "angular",
+    "mongodb",
+    "redis",
+    "docker",
+    "azure",
+    "githubactions",
+    "flutter",
+    "dart",
+    "git"
   ]
 }

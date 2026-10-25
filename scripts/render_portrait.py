@@ -7,10 +7,10 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 from common import BAR_H, INK, STATIC, esc, panel, write
 
-COLS, ROWS = 72, 46
-CW, LH, FS = 4.6, 8.4, 7.6
+COLS, ROWS = 84, 54
+CW, LH, FS = 4.0, 7.2, 6.8
 PAD = 18
-RAMP = " .`:-=+*csS#%@"
+RAMP = " .'`:-~=+*icxsoS#%&@"
 
 
 def load_photo():
@@ -34,8 +34,8 @@ def from_photo(img):
     gray = cv2.createCLAHE(clipLimit=2.5, tileGridSize=(8, 8)).apply(gray).astype(np.float32) / 255
 
     fg = gray[alpha > 0.5]
-    lo, hi = np.percentile(fg, 25), np.percentile(fg, 99.5)
-    v = np.clip((gray - lo) / max(hi - lo, 1e-3), 0, 1) ** 0.95 * alpha
+    lo, hi = np.percentile(fg, 8), np.percentile(fg, 99.5)
+    v = np.clip((gray - lo) / max(hi - lo, 1e-3), 0, 1) ** 0.75 * alpha
 
     mask = alpha > 0.5
     ys = np.where(mask.any(axis=1))[0]
@@ -50,7 +50,7 @@ def from_photo(img):
     head_w = float(np.median(widths))
     cx = float(np.median(centers[: max(1, len(centers) // 2)]))
 
-    crop_w = head_w * 2.1
+    crop_w = head_w * 1.9
     crop_h = crop_w * (ROWS * LH) / (COLS * CW)
     x0, y0 = int(cx - crop_w / 2), int(top - head_w * 0.12)
     return crop(v, x0, y0, int(crop_w), int(crop_h))

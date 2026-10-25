@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 NS = "{http://www.w3.org/2000/svg}"
 errors = []
 
-for path in ["contrib-heatmap.svg", "ascii-portrait.svg", "info-card.svg"]:
+for path in ["contrib-heatmap.svg", "ascii-portrait.svg", "info-card.svg", "tagline.svg"]:
     raw = open(path, encoding="utf-8").read()
     try:
         root = ET.fromstring(raw)

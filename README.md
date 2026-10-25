@@ -2,19 +2,18 @@
 
 <img src="./contrib-heatmap.svg" width="850" alt="Contribution heatmap"/>
 
-<br>
+<img src="./ascii-portrait.svg" width="379" alt="ASCII portrait"/>
+<img src="./info-card.svg" width="461" alt="About me"/>
 
-<table>
-<tr>
-<td valign="top"><img src="./ascii-portrait.svg" width="382" alt="ASCII portrait"/></td>
-<td valign="top"><img src="./info-card.svg" width="468" alt="About me"/></td>
-</tr>
-</table>
+<img src="./tagline.svg" width="850" alt="Building scalable SaaS platforms, APIs, integrations &amp; distributed systems."/>
 
-<br>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,angular,mongodb,redis,docker,azure,githubactions,flutter,dart,git&theme=dark&perline=12" alt="Tech stack"/>
 
-<h3>Building scalable SaaS platforms, APIs, integrations &amp; distributed systems.</h3>
+<br><br>
 
-<a href="https://www.linkedin.com/in/sunny-kumar-4817551ba/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://leetcode.com/u/roysunny951/">LeetCode</a> &nbsp;·&nbsp; <a href="mailto:roysunny951@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/sunny-kumar-4817551ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/roysunny951/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://presonal-porfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:roysunny951@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>

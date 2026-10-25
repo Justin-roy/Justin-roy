@@ -1,7 +1,15 @@
 import json
 import re
+from urllib.parse import quote
 
-TOTAL = 850
+TOTAL = 840
+BADGES = {
+    "LinkedIn": ("0A66C2", "linkedin"),
+    "LeetCode": ("FFA116", "leetcode"),
+    "Email": ("EA4335", "gmail"),
+    "Portfolio": ("000000", "vercel"),
+    "GitHub": ("181717", "github"),
+}
 
 
 def aspect(path):
@@ -12,31 +20,36 @@ def aspect(path):
     return w / h
 
 
+def badge(name, url):
+    color, logo = BADGES.get(name, ("30363d", ""))
+    src = f"https://img.shields.io/badge/{quote(name)}-{color}?style=for-the-badge" + (f"&logo={logo}&logoColor=white" if logo else "")
+    return f'<a href="{url}"><img src="{src}" alt="{name}"/></a>'
+
+
 with open("profile.json") as f:
     p = json.load(f)
 
 a1, a2 = aspect("ascii-portrait.svg"), aspect("info-card.svg")
 w1 = round(TOTAL * a1 / (a1 + a2))
 w2 = TOTAL - w1
-links = " &nbsp;·&nbsp; ".join(f'<a href="{u}">{n}</a>' for n, u in p["links"])
+links = "\n".join(badge(n, u) for n, u in p["links"])
+stack = ""
+if p.get("icons"):
+    stack = f'''
+<img src="https://skillicons.dev/icons?i={",".join(p["icons"])}&theme=dark&perline=12" alt="Tech stack"/>
+
+<br><br>
+'''
 
 readme = f'''<div align="center">
 
-<img src="./contrib-heatmap.svg" width="{TOTAL}" alt="Contribution heatmap"/>
+<img src="./contrib-heatmap.svg" width="850" alt="Contribution heatmap"/>
 
-<br>
+<img src="./ascii-portrait.svg" width="{w1}" alt="ASCII portrait"/>
+<img src="./info-card.svg" width="{w2}" alt="About me"/>
 
-<table>
-<tr>
-<td valign="top"><img src="./ascii-portrait.svg" width="{w1}" alt="ASCII portrait"/></td>
-<td valign="top"><img src="./info-card.svg" width="{w2}" alt="About me"/></td>
-</tr>
-</table>
-
-<br>
-
-<h3>{p["tagline"].replace("&", "&amp;")}</h3>
-
+<img src="./tagline.svg" width="850" alt="{p["tagline"].replace("&", "&amp;")}"/>
+{stack}
 {links}
 
 </div>
