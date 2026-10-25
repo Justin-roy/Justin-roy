@@ -2,8 +2,8 @@
 
 <img src="./contrib-heatmap.svg" width="850" alt="Contribution heatmap"/>
 
-<img src="./ascii-portrait.svg" width="379" alt="ASCII portrait"/>
-<img src="./info-card.svg" width="461" alt="About me"/>
+<img src="./ascii-portrait.svg" width="370" alt="ASCII portrait"/>
+<img src="./info-card.svg" width="470" alt="About me"/>
 
 <img src="./tagline.svg" width="850" alt="Building scalable SaaS platforms, APIs, integrations &amp; distributed systems."/>
 
