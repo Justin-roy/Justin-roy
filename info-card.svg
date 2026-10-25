@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="471" height="473" viewBox="0 0 471 473" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+<style>.l{opacity:0;animation:f .4s ease-out forwards}@keyframes f{to{opacity:1}}</style>
+<rect x="0.5" y="0.5" width="470" height="472" rx="10" fill="#0d1117" stroke="#21262d"/>
+<path d="M0.5 30 V10.5 a10 10 0 0 1 10 -10 H460.5 a10 10 0 0 1 10 10 V30 Z" fill="#161b22"/>
+<line x1="0.5" y1="30" x2="470.5" y2="30" stroke="#21262d"/>
+<circle cx="18" cy="15.0" r="5" fill="#ff5f56"/><circle cx="34" cy="15.0" r="5" fill="#ffbd2e"/><circle cx="50" cy="15.0" r="5" fill="#27c93f"/>
+<text x="235.5" y="19.0" text-anchor="middle" font-size="12" fill="#8b949e">sunny@kumar — neofetch</text>
+<text class="l" x="24" y="64" font-size="13" style="animation-delay:0.15s"><tspan fill="#3fb950" font-weight="bold">sunny</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#3fb950" font-weight="bold">kumar</tspan></text>
+<text class="l" x="24" y="85" font-size="13" style="animation-delay:0.23s"><tspan fill="#8b949e">-----------</tspan></text>
+<text class="l" x="24" y="106" font-size="13" style="animation-delay:0.31s"><tspan fill="#58a6ff" font-weight="bold">Role</tspan><tspan fill="#c9d1d9" x="133.2">Backend / Full-Stack Developer</tspan></text>
+<text class="l" x="24" y="127" font-size="13" style="animation-delay:0.39s"><tspan fill="#58a6ff" font-weight="bold">Company</tspan><tspan fill="#c9d1d9" x="133.2">Kanlas Technologies</tspan></text>
+<text class="l" x="24" y="148" font-size="13" style="animation-delay:0.47s"><tspan fill="#58a6ff" font-weight="bold">Experience</tspan><tspan fill="#c9d1d9" x="133.2">4+ years</tspan></text>
+<text class="l" x="24" y="169" font-size="13" style="animation-delay:0.55s"><tspan fill="#58a6ff" font-weight="bold">Building</tspan><tspan fill="#c9d1d9" x="133.2">Multi-tenant SaaS, APIs &amp; integrations</tspan></text>
+<text class="l" x="24" y="190" font-size="13" style="animation-delay:0.63s"><tspan fill="#58a6ff" font-weight="bold">Stack</tspan><tspan fill="#c9d1d9" x="133.2">NestJS, Node.js, TypeScript</tspan></text>
+<text class="l" x="24" y="211" font-size="13" style="animation-delay:0.71s"><tspan fill="#58a6ff" font-weight="bold">Messaging</tspan><tspan fill="#c9d1d9" x="133.2">Apache Pulsar, WebSockets</tspan></text>
+<text class="l" x="24" y="232" font-size="13" style="animation-delay:0.79s"><tspan fill="#58a6ff" font-weight="bold">Data</tspan><tspan fill="#c9d1d9" x="133.2">MongoDB, Redis, MinIO</tspan></text>
+<text class="l" x="24" y="253" font-size="13" style="animation-delay:0.87s"><tspan fill="#58a6ff" font-weight="bold">Auth</tspan><tspan fill="#c9d1d9" x="133.2">Keycloak, OAuth 2.0, RBAC</tspan></text>
+<text class="l" x="24" y="274" font-size="13" style="animation-delay:0.95s"><tspan fill="#58a6ff" font-weight="bold">Integrations</tspan><tspan fill="#c9d1d9" x="133.2">Meta Graph, WhatsApp Cloud, Razorpay</tspan></text>
+<text class="l" x="24" y="295" font-size="13" style="animation-delay:1.03s"><tspan fill="#58a6ff" font-weight="bold">DevOps</tspan><tspan fill="#c9d1d9" x="133.2">Docker, Azure CR, CI/CD, NX</tspan></text>
+<text class="l" x="24" y="316" font-size="13" style="animation-delay:1.11s"><tspan fill="#58a6ff" font-weight="bold">Frontend</tspan><tspan fill="#c9d1d9" x="133.2">Angular, Angular Material</tspan></text>
+<text class="l" x="24" y="337" font-size="13" style="animation-delay:1.19s"><tspan fill="#58a6ff" font-weight="bold">Open source</tspan><tspan fill="#c9d1d9" x="133.2">Flutter RFID plugins, Hacktoberfest '23</tspan></text>
+<text class="l" x="24" y="358" font-size="13" style="animation-delay:1.27s"><tspan fill="#58a6ff" font-weight="bold">DSA</tspan><tspan fill="#c9d1d9" x="133.2">500+ problems solved</tspan></text>
+<text class="l" x="24" y="379" font-size="13" style="animation-delay:1.35s"><tspan fill="#58a6ff" font-weight="bold">Location</tspan><tspan fill="#c9d1d9" x="133.2">Patna, India</tspan></text>
+<text class="l" x="24" y="400" font-size="13" style="animation-delay:1.43s"><tspan fill="#58a6ff" font-weight="bold">Email</tspan><tspan fill="#c9d1d9" x="133.2">roysunny951@gmail.com</tspan></text>
+<g class="l" style="animation-delay:1.59s"><rect x="24" y="430" width="20" height="12" fill="#484f58"/><rect x="46" y="430" width="20" height="12" fill="#ff7b72"/><rect x="68" y="430" width="20" height="12" fill="#3fb950"/><rect x="90" y="430" width="20" height="12" fill="#d29922"/><rect x="112" y="430" width="20" height="12" fill="#58a6ff"/><rect x="134" y="430" width="20" height="12" fill="#bc8cff"/><rect x="156" y="430" width="20" height="12" fill="#39c5cf"/><rect x="178" y="430" width="20" height="12" fill="#c9d1d9"/></g>
+</svg>

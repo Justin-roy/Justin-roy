@@ -1,0 +1,81 @@
+{
+  "user": "sunny",
+  "host": "kumar",
+  "lines": [
+    [
+      "Role",
+      "Backend / Full-Stack Developer"
+    ],
+    [
+      "Company",
+      "Kanlas Technologies"
+    ],
+    [
+      "Experience",
+      "4+ years"
+    ],
+    [
+      "Building",
+      "Multi-tenant SaaS, APIs & integrations"
+    ],
+    [
+      "Stack",
+      "NestJS, Node.js, TypeScript"
+    ],
+    [
+      "Messaging",
+      "Apache Pulsar, WebSockets"
+    ],
+    [
+      "Data",
+      "MongoDB, Redis, MinIO"
+    ],
+    [
+      "Auth",
+      "Keycloak, OAuth 2.0, RBAC"
+    ],
+    [
+      "Integrations",
+      "Meta Graph, WhatsApp Cloud, Razorpay"
+    ],
+    [
+      "DevOps",
+      "Docker, Azure CR, CI/CD, NX"
+    ],
+    [
+      "Frontend",
+      "Angular, Angular Material"
+    ],
+    [
+      "Open source",
+      "Flutter RFID plugins, Hacktoberfest '23"
+    ],
+    [
+      "DSA",
+      "500+ problems solved"
+    ],
+    [
+      "Location",
+      "Patna, India"
+    ],
+    [
+      "Email",
+      "roysunny951@gmail.com"
+    ]
+  ],
+  "tagline": "Building scalable SaaS platforms, APIs, integrations & distributed systems.",
+  "links": [
+    [
+      "LinkedIn",
+      "[ADD LINKEDIN URL]"
+    ],
+    [
+      "LeetCode",
+      "[ADD LEETCODE URL]"
+    ],
+    [
+      "Email",
+      "mailto:roysunny951@gmail.com"
+    ]
+  ]
+}

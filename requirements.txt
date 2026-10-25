@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+rembg[cpu]
+opencv-python-headless
+pillow
+pillow-heif
